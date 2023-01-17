@@ -11,5 +11,5 @@ def reverse_string_manually(string):
     return "".join(reversed_string_as_a_list)
 
 
-print(reverse_string_easy("PPk"))
-print(reverse_string_manually("PeNis"))
+print(reverse_string_easy("Lmao"))
+print(reverse_string_manually("KKKKKKKKKKKKKKKlol"))

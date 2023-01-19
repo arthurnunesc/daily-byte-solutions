@@ -1,3 +1,5 @@
+# This question is asked by Google. Given a string, reverse all of its characters and return the resulting string.
+
 def reverse_string_easy(string):
     return string[::-1]
 

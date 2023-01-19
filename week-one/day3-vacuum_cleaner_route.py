@@ -20,6 +20,6 @@ def check_initial_position(moves):
         return False
 
 
-print(check_initial_position("LR"))
-print(check_initial_position("URURD"))
-print(check_initial_position("RUULLDRD"))
+print(check_initial_position("LR")) # True
+print(check_initial_position("URURD")) # False
+print(check_initial_position("RUULLDRD")) # True

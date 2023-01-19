@@ -12,8 +12,9 @@ def check_palyndrome(word):
     else:
         return False
 
-print(check_palyndrome("Level"))
-print(check_palyndrome("algorithm"))
+print(check_palyndrome("level")) # True
+print(check_palyndrome("algorithm")) # False
+print(check_palyndrome("A man, a plan, a canal: Panama.")) # True
+
 print(check_palyndrome("ararA"))
 print(check_palyndrome("LMAO"))
-print(check_palyndrome("A man, a plan, a canal: Panama."))

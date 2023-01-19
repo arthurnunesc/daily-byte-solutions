@@ -13,5 +13,6 @@ def reverse_string_manually(string):
     return "".join(reversed_string_as_a_list)
 
 
-print(reverse_string_easy("Lmao"))
-print(reverse_string_manually("KKKKKKKKKKKKKKKlol"))
+print(reverse_string_easy("Cat")) # "taC"
+print(reverse_string_manually("The Daily Byte")) # "etyB yliaD ehT"
+print(reverse_string_manually("civic")) # "civic"
